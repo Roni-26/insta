@@ -9,5 +9,5 @@ $ git clone https://github.com/Crack26/MBF
 #### Run script
 ```bash
 $ cd MBF
-$ python2 run.py
+$ python2 insta.pyc
 ```
