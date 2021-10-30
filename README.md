@@ -4,12 +4,12 @@
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pip2 install futures
-$ pip2 install Requests
+$ pip2 install requests
 $ pkg install git
-$ git clone https://github.com/Crack26/MBF
+$ git clone https://github.com/Crack26/insta
 ```
 #### Run script
 ```bash
-$ cd MBF
+$ cd insta
 $ python2 insta.pyc
 ```
