@@ -6,10 +6,10 @@ $ pkg install python2
 $ pip2 install futures
 $ pip2 install requests
 $ pkg install git
-$ git clone https://github.com/Crack26/insta
+$ git clone https://github.com/Roni-26/insta
 ```
 #### Run script
 ```bash
 $ cd insta
-$ python2 insta.pyc
+$ python2 insta.py
 ```
